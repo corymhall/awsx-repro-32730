@@ -1,0 +1,8 @@
+name: awsx-repro-32730
+description: Remote component nested-output regression in Pulumi 3.273.0
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+packages:
+  repro-component: ./component

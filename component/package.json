@@ -1,0 +1,11 @@
+{
+    "name": "repro-component",
+    "main": "index.ts",
+    "dependencies": {
+        "@pulumi/pulumi": "3.274.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    }
+}
